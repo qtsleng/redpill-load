@@ -1,8 +1,8 @@
 {
   "os": {
-    "id": "ds920p_42661",
-    "pat_url": "https://global.download.synology.com/download/DSM/release/7.1/42661-1/DSM_DS920%2B_42661.pat",
-    "sha256": "8076950fdad2ca58ea9b91a12584b9262830fe627794a0c4fc5861f819095261"
+    "id": "ds720p_42661",
+    "pat_url": "https://cndl.synology.cn/download/DSM/release/7.1/42661-1/DSM_DS720%2B_42661.pat",
+    "sha256": "780FCF061DD5845744C9C02D27C8B9378CB7AA327F1BCD83511F2C3D511085AB"
   },
 
   "files": {
@@ -21,7 +21,7 @@
 
   "patches": {
     "zlinux": [
-      "zImage-001-920p-42661-ramdisk-and-flag-NOP.bsp"
+      "zImage-001-720p-42661-ramdisk-and-flag-NOP.bsp"
     ],
     "ramdisk": [
       "@@@COMMON@@@/ramdisk-001-disable-root-pwd.patch",
@@ -54,7 +54,7 @@
       "mac1": "",
       "netif_num": 1,
 
-      "syno_hw_version": "DS920+",
+      "syno_hw_version": "DS720+",
       "intel_iommu": "igfx_off",
       "HddEnableDynamicPower": 1,
       "vender_format_version": 2,
@@ -69,7 +69,7 @@
     },
 
     "menu_entries": {
-      "RedPill DS920+ v7.1.0-42661 (USB, Verbose)": {
+      "RedPill DS720+ v7.1.0-42661 (USB, Verbose)": {
         "options": [
           "savedefault",
           "set root=(hd0,msdos1)",
@@ -85,7 +85,7 @@
           "log_buf_len": "32M"
         }
       },
-      "RedPill DS920+ v7.1.0-42661 (SATA, Verbose)": {
+      "RedPill DS720+ v7.1.0-42661 (SATA, Verbose)": {
         "options": [
           "savedefault",
           "set root=(hd0,msdos1)",
