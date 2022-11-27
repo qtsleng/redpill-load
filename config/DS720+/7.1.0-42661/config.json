@@ -2,7 +2,7 @@
   "os": {
     "id": "ds720p_42661",
     "pat_url": "https://cndl.synology.cn/download/DSM/release/7.1/42661-1/DSM_DS720%2B_42661.pat",
-    "sha256": "780FCF061DD5845744C9C02D27C8B9378CB7AA327F1BCD83511F2C3D511085AB"
+    "sha256": "780fcf061dd5845744c9c02d27c8b9378cb7aa327f1bcd83511f2c3d511085ab"
   },
 
   "files": {
