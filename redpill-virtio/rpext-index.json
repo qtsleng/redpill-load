@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.virtio",
-  "url": "https://github.com/pocopico/redpill-load/raw/develop/redpill-virtio/rpext-index.json",
+  "url": "https://github.com/qtsleng/redpill-load/raw/develop/redpill-virtio/rpext-index.json",
   "info": {
     "name": "VirtIO",
     "description": "Adds VirtIO support for fast network/PCI/SCSI/network/console paravirtualization under QEmu (Proxmox, VirtualBox, virsh, and similar)",
@@ -28,6 +28,7 @@
     "ds920p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds920p_41890.json",
     "ds920p_42621": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds920p_41890.json",
     "ds920p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds920p_41890.json",
+    "ds720p_42661": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds920p_41890.json",
     "ds1621p_42951": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds1621p_41890.json",
     "ds1621p_42962": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds1621p_41890.json",
     "ds1621p_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-virtio/recipes/ds1621p_41890.json",
